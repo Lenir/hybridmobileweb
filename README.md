@@ -1,2 +1,2 @@
-hybrid_mobile_web\n
+hybrid_mobile_web
 Hello hybrid mobile web!!
